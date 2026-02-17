@@ -3,7 +3,7 @@
   <br><br>
   <h2>Kosala Nayanajith Deshapriya</h2>
   <p><b>Computer Engineering Undergraduate</b> | ML & Computer Vision Researcher | Robotics</p>
-  <p>🌱 Negombo, Sri Lanka | CNN Tomato Detection | News APIs | Kinematics</p>
+  <p>Colombo, Sri Lanka | CNN Tomato Detection | News APIs | Kinematics</p>
 </div>
 
 <div align="center">
