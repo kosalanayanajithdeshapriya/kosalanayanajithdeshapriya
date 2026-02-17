@@ -46,10 +46,6 @@
 
 > **Pin these repos** on your profile via "Customize pins"
 
-## 📈 Contribution Activity
-<div align="center">
-  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=kosalanayanajithdeshapriya&theme=github-dark&hide_border=true)
-</div>
 
 ## 🎯 Focus Areas
 - 🔬 **Computer Vision**: CNN/LSTM for agriculture (tomato maturity)
