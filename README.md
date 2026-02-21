@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/152676712?v=4" alt="Kosala Nayanajith Deshapriya" width="150"/>
   <br><br>
   <h2>Kosala Nayanajith Deshapriya</h2>
-  <p><b>Computer Engineering Undergraduate</b> | ML & Computer Vision Researcher | Robotics</p>
+  <p><b>Computer Engineering Undergraduate</b> | ML & Computer Vision Researcher | MLOps </p>
   <p>Colombo, Sri Lanka | CNN Tomato Detection | News APIs | Kinematics</p>
 </div>
 
@@ -26,6 +26,13 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </div>
 
 ## 📊 GitHub Profile Stats
@@ -43,6 +50,11 @@
 | **News API App** | Sri Lanka TV news alerts & processing | Python, REST APIs |
 | **Robotics Lab** | Manipulator kinematics & singularity analysis | Python, Math, ROS |
 | **ML Experiments** | Jupyter notebooks for deep learning research | Jupyter, Scikit-learn |
+| **EncHAT (ZOOM_WEBRTC)** | Realtime encrypted chat platform (planned WebRTC video integration) | Repo: https://github.com/kosalanayanajithdeshapriya/ZOOM_WEBRTC |
+| **NewsLK** | News platform (Next.js) | Repo: https://github.com/kosalanayanajithdeshapriya/NewsLK • Live: https://news-lk.vercel.app |
+| **Hostel Management System** | Full hostel admin system (roles, complaints, payments, visitors) | Repo: https://github.com/kosalanayanajithdeshapriya/HostelManagementSystem |
+| **Transfer Learning Image Classifier** | Flask app + trained model + UI templates | Repo: https://github.com/kosalanayanajithdeshapriya/image-classifier-transfer-learning |
+| **Laptop Price Predictor** | ML pipeline + simple web UI deployment | Repo: https://github.com/kosalanayanajithdeshapriya/ML_laptop-price-predictor |
 
 > **Pin these repos** on your profile via "Customize pins"
 
@@ -53,4 +65,7 @@
 - 🌐 **APIs**: News integration, data processing
 - 📚 **Research**: Annotated bibliographies, technical writing
 
-## 🏆 Achievements
+## 📫 Contact
+- LinkedIn: https://linkedin.com/in/kosala-deshapriya
+- Medium: https://medium.com/@kosalanayanajith
+- Email: kosala.nayanajith@gmail.com
