@@ -50,8 +50,8 @@ class KosalaNayanajith:
 
     name       = "Kosala Nayanajith Deshapriya"
     location   = "Colombo, Sri Lanka 🇱🇰"
-    university = "South Eastern University of Sri Lanka (SEUSL)"
-    degree     = "BSc Computer Science & Engineering — E21 Cohort, Semester 5"
+    university = "University of Jaffna (UOJ)"
+    degree     = "BSc Computer Science & Engineering "
 
     research_focus = [
         "Computer Vision (CNN/LSTM for plant detection)",
